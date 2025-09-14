@@ -20,3 +20,6 @@ Hotel managers can monitor booking trends and cancellation rates.
 Analysts can identify guest behavior and improve forecasting.
 
 Businesses can make better decisions on pricing, inventory, and customer retention.
+
+Here is Demo of the Dashboard
+![image alt](https://github.com/hriturajsharma-code/Hotel-booking-excel-dashboard/blob/cf8deb0225aa5968e1cc5db7e47e265cd1db4319/HOTEL%20BOOKING%20DASHBOARD.png)
